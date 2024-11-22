@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores principais -->
+    <color name="primaryColor">#4CAF50</color> <!-- Verde Sustentável -->
+    <color name="primaryDarkColor">#388E3C</color> <!-- Verde Escuro -->
+    <color name="accentColor">#FFEB3B</color> <!-- Amarelo Energia -->
+
+    <!-- Cores secundárias -->
+    <color name="secondaryColor">#81C784</color> <!-- Verde Claro -->
+    <color name="errorColor">#F44336</color> <!-- Vermelho Erro -->
+
+    <!-- Texto -->
+    <color name="textColorPrimary">#212121</color> <!-- Cinza Escuro -->
+    <color name="textColorSecondary">#757575</color> <!-- Cinza Médio -->
+
+    <!-- Fundo -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Cinza Muito Claro -->
+    <color name="white">#FFFFFF</color> <!-- Branco -->
+    <color name="black">#000000</color> <!-- Preto -->
+
+</resources>
